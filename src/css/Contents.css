@@ -1,0 +1,29 @@
+.contents-container{
+    /* scroll-snap-type: y mandatory; */
+}
+.contents{
+    width:60%;
+    height: 620px;
+    overflow: auto;
+    margin: auto;
+    /* background-color: var(--my-color-4); */
+    margin-top: 10px;
+    margin-bottom:10px;
+    background-color: rgb(0,0,0,0.35);
+}
+
+.contents h2{
+    color:whitesmoke;
+    margin-bottom: 10px;
+    
+}
+
+.About-text p:not(.About-ask){
+   color: white;
+}
+
+.About-ask{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: gray;
+}

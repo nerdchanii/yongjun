@@ -1,0 +1,31 @@
+:root{
+--my-color-1: #574E44;
+--my-color-2: #A47270;
+--my-color-3: #95A37E;
+--my-color-4: #C1CBA2;
+--my-color-5: #DACD75;
+--my-color-6: #E2DFCB;
+}
+*{
+    margin: 0px;
+    scroll-behavior: smooth;
+    
+}
+.App{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+html{
+    /* background-color: whitesmoke; */
+    /* background-image: url(../img/background.jpeg); */
+    /* opacity: 0.85; */
+}
+
+
+#backimg{
+    position: absolute;
+    z-index: -1;
+
+}

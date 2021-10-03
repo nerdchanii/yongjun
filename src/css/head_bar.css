@@ -1,0 +1,22 @@
+.head_bar{
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+
+
+.nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    align-items: center;
+    color: teal;
+    
+}
+
+a:link { color: red; text-decoration: none;}
+a:visited { color: whitesmoke; text-decoration: none;}
+a:hover { color: whitesmoke; text-decoration: underline;}
