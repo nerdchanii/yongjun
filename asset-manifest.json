@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yongjun/static/css/main.ad972dcb.chunk.css",
+    "main.js": "/yongjun/static/js/main.fd7303de.chunk.js",
+    "main.js.map": "/yongjun/static/js/main.fd7303de.chunk.js.map",
+    "runtime-main.js": "/yongjun/static/js/runtime-main.a0e49bd4.js",
+    "runtime-main.js.map": "/yongjun/static/js/runtime-main.a0e49bd4.js.map",
+    "static/js/2.93675185.chunk.js": "/yongjun/static/js/2.93675185.chunk.js",
+    "static/js/2.93675185.chunk.js.map": "/yongjun/static/js/2.93675185.chunk.js.map",
+    "index.html": "/yongjun/index.html",
+    "static/css/main.ad972dcb.chunk.css.map": "/yongjun/static/css/main.ad972dcb.chunk.css.map",
+    "static/js/2.93675185.chunk.js.LICENSE.txt": "/yongjun/static/js/2.93675185.chunk.js.LICENSE.txt",
+    "static/media/background.1d20d122.jpeg": "/yongjun/static/media/background.1d20d122.jpeg",
+    "static/media/profile.48bcc4b9.jpg": "/yongjun/static/media/profile.48bcc4b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e49bd4.js",
+    "static/js/2.93675185.chunk.js",
+    "static/css/main.ad972dcb.chunk.css",
+    "static/js/main.fd7303de.chunk.js"
+  ]
+}
