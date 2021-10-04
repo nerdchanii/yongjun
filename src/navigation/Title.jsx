@@ -1,6 +1,6 @@
 
 const Title = ()=>{
-    return ( <h1>이용준 포트폴리오</h1>);
+    return ( <h1>leegane_snap Portfolio</h1>);
     
 }
 export default Title;
